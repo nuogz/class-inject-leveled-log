@@ -1,6 +1,6 @@
 {
 	"name": "@nuogz/class-inject-leveled-log",
-	"version": "2.0.1",
+	"version": "1.0.0",
 	"description": "inject base level-based log function into class",
 	"author": "Nuogz",
 	"license": "LGPL-3.0-or-later",
